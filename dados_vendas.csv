@@ -1,0 +1,51 @@
+ID_Pedido,Data_Pedido,Produto,Categoria,Quantidade,Preço_Unitario,Valor_Total,Cidade,Forma_Pagamento
+1,2024-01-15,Notebook,Informática,3,4003.06,12009.18,Curitiba,Cartão de Crédito
+2,2024-01-21,Mouse,Acessórios,3,3920.49,11761.47,São Paulo,Cartão de Crédito
+3,2024-03-15,Mouse,Acessórios,3,2284.58,6853.74,Rio de Janeiro,Pix
+4,2024-04-09,Mouse,Acessórios,3,4344.26,13032.78,Curitiba,Transferência
+5,2024-05-29,Notebook,Informática,4,3569.56,14278.24,São Paulo,Cartão de Crédito
+6,2024-06-06,Smartphone,Telefonia,1,4852.56,4852.56,Curitiba,Transferência
+7,2024-01-21,Teclado,Acessórios,2,103.82,207.64,Curitiba,Pix
+8,2024-01-22,Notebook,Informática,1,1590.79,1590.79,São Paulo,Cartão de Crédito
+9,2024-02-18,Fone de Ouvido,Acessórios,1,2216.53,2216.53,Belo Horizonte,Pix
+10,2024-06-18,Mouse,Acessórios,3,3098.08,9294.24,Belo Horizonte,Pix
+11,2024-01-15,Notebook,Informática,4,1531.51,6126.04,Belo Horizonte,Transferência
+12,2024-02-20,Monitor,Informática,2,543.97,1087.94,Rio de Janeiro,Transferência
+13,2024-03-04,Fone de Ouvido,Acessórios,4,2619.75,10479.0,Curitiba,Cartão de Crédito
+14,2024-02-20,Notebook,Informática,1,327.61,327.61,Curitiba,Cartão de Crédito
+15,2024-06-15,Mouse,Acessórios,3,935.57,2806.71,Curitiba,Cartão de Crédito
+16,2024-02-29,Smartphone,Telefonia,2,4749.54,9499.08,São Paulo,Boleto
+17,2024-01-09,Smartphone,Telefonia,2,4061.15,8122.3,Porto Alegre,Cartão de Crédito
+18,2024-03-24,Smartphone,Telefonia,2,578.59,1157.18,Belo Horizonte,Pix
+19,2024-06-20,Teclado,Acessórios,4,2256.75,9027.0,Porto Alegre,Transferência
+20,2024-02-04,Fone de Ouvido,Acessórios,1,4182.66,4182.66,São Paulo,Boleto
+21,2024-02-19,Monitor,Informática,2,2016.2,4032.4,Rio de Janeiro,Pix
+22,2024-05-13,Mouse,Acessórios,4,3801.27,15205.08,Rio de Janeiro,Boleto
+23,2024-02-23,Smartphone,Telefonia,2,2778.88,5557.76,Curitiba,Boleto
+24,2024-02-13,Teclado,Acessórios,1,4850.96,4850.96,Belo Horizonte,Boleto
+25,2024-01-14,Fone de Ouvido,Acessórios,2,2036.24,4072.48,Porto Alegre,Pix
+26,2024-02-09,Notebook,Informática,3,4617.18,13851.54,Rio de Janeiro,Pix
+27,2024-03-22,Fone de Ouvido,Acessórios,1,2004.52,2004.52,Belo Horizonte,Boleto
+28,2024-06-02,Monitor,Informática,3,4160.81,12482.43,Curitiba,Transferência
+29,2024-05-03,Teclado,Acessórios,1,1476.58,1476.58,São Paulo,Pix
+30,2024-01-15,Mouse,Acessórios,1,790.53,790.53,Porto Alegre,Boleto
+31,2024-03-11,Mouse,Acessórios,1,465.3,465.3,São Paulo,Boleto
+32,2024-05-15,Mouse,Acessórios,1,3884.0,3884.0,Curitiba,Cartão de Crédito
+33,2024-03-21,Mouse,Acessórios,4,168.99,675.96,Porto Alegre,Boleto
+34,2024-02-02,Smartphone,Telefonia,4,3672.14,14688.56,Curitiba,Pix
+35,2024-02-10,Teclado,Acessórios,3,462.82,1388.46,Porto Alegre,Cartão de Crédito
+36,2024-03-12,Notebook,Informática,4,4329.21,17316.84,Belo Horizonte,Pix
+37,2024-02-17,Monitor,Informática,4,1721.4,6885.6,São Paulo,Pix
+38,2024-02-06,Smartphone,Telefonia,3,1623.81,4871.43,São Paulo,Transferência
+39,2024-02-04,Monitor,Informática,3,2997.36,8992.08,São Paulo,Boleto
+40,2024-06-23,Notebook,Informática,1,1976.34,1976.34,Porto Alegre,Cartão de Crédito
+41,2024-01-05,Fone de Ouvido,Acessórios,2,4259.68,8519.36,Rio de Janeiro,Cartão de Crédito
+42,2024-05-21,Smartphone,Telefonia,2,1256.33,2512.66,Rio de Janeiro,Cartão de Crédito
+43,2024-01-15,Mouse,Acessórios,3,298.12,894.36,São Paulo,Transferência
+44,2024-06-27,Notebook,Informática,2,224.55,449.1,Curitiba,Boleto
+45,2024-02-21,Notebook,Informática,3,4489.24,13467.72,Belo Horizonte,Pix
+46,2024-05-30,Teclado,Acessórios,1,2592.0,2592.0,São Paulo,Pix
+47,2024-06-19,Fone de Ouvido,Acessórios,3,2110.88,6332.64,Rio de Janeiro,Pix
+48,2024-06-08,Smartphone,Telefonia,1,1221.11,1221.11,Porto Alegre,Pix
+49,2024-03-26,Notebook,Informática,3,1519.78,4559.34,São Paulo,Cartão de Crédito
+50,2024-02-14,Monitor,Informática,4,4655.52,18622.08,Porto Alegre,Cartão de Crédito
